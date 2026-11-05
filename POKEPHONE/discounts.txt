@@ -1,0 +1,2 @@
+customer|30.0
+cheska|10.0

@@ -1,0 +1,5 @@
+admin|admin123|ADMIN
+manager|mgr123|MANAGER
+staff|staff123|STAFF
+customer|cust123|CUSTOMER
+cheska|siomai|CUSTOMER

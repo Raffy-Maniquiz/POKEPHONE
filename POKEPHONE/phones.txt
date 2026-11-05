@@ -1,0 +1,2 @@
+poo1|Apple|iPhone 18pm|101000.0|0
+POO2|Samsung|Galaxy Note 18|1000.0|9
